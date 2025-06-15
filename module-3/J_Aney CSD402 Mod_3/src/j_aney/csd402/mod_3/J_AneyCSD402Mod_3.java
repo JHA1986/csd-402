@@ -1,4 +1,4 @@
-/* Jonah Aney CSD-402 Module 3: Number Pyramid
+/* Jonah Aney 06/06/2025 CSD-402 Module 3: Number Pyramid
 Directions: Write a program that uses nested for loops to output all the following with the shown display format
 
 Source material: 
