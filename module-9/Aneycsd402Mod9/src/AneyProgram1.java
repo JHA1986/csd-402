@@ -11,7 +11,7 @@ In this program, include the use of Autoboxing/Auto-Unboxing, working with a use
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Program1 {
+public class AneyProgram1 {
     public static void main(String[] args) {
         ArrayList<String> words = new ArrayList<>();
         

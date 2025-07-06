@@ -14,7 +14,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.Random;
 
-public class Program2 {
+public class AneyProgram2 {
     public static void main(String[] args) {
         File file = new File("data.file");
         Random random = new Random();
